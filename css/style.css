@@ -1,7 +1,6 @@
 *{
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
 }
 
 #top{
@@ -31,4 +30,44 @@ h1{
 
 .small{
     font-size: smaller;
+}
+
+main{
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+#bigger-image{
+    width: 50%;
+}
+
+#smaller-image{
+    height: 632.656px;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+p,ul,table{
+    margin-top: 16px;
+}
+
+table{
+   width: 100%;
+   text-align: left;
+   border-collapse: collapse; 
+}
+
+.big-column{
+    width: 50%;
+}
+
+thead{
+    color: white;
+    background-color: rgb(32, 169, 229);
+}
+
+.blue-back{
+    background-color: rgb(177, 229, 242);
 }
