@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#top{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(78, 160, 255);
+    height: 165px;
+    background-repeat: repeat;
+    background-position-y: 5%;
+    background-position-x: 10%;
+    position: relative;
+}
+
+#logo{
+    width: 19%;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+}
+
+h1{
+    font-size: 70px;
+}
+
+.blue{
+    color: rgb(134, 208, 241);
+}
+
+.small{
+    font-size: smaller;
+}
