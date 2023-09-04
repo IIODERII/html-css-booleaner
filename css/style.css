@@ -71,3 +71,32 @@ thead{
 .blue-back{
     background-color: rgb(177, 229, 242);
 }
+
+aside{
+    margin-left: 5px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+h2{
+    font-size: 1em;
+    color: grey;
+    margin-top: 16px;
+}
+
+#first-img{
+    background-image: url(../img/monitor.jpg);
+}
+
+#second-img{
+    background-image: url(../img/graph.jpg);
+}
+
+div{
+    height: 207px;
+    background-repeat: no-repeat;
+    margin-top: 16px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
